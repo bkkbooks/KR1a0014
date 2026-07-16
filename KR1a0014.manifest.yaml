@@ -26,10 +26,10 @@ assets:
   - {seq: 3, filename: KR1a0014_003.yaml, hash: 'sha256:2f4f7e223522109fa6218a4f04a9af468ff53bab23175957b6b0eec3122507e0'}
   - {seq: 4, filename: KR1a0014_004.yaml, hash: 'sha256:8abf5ce4fc1b838e9f0f2738d8214df94f35ecfa2f57b3e10b76a96fe2158389'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1a0014_000.markers.yaml, hash: 'sha256:9e713e9b7c783cf8bb2ba676840747980437a7b647fd623e03fab2456ba8f04c'}
-  - {seq: 1, role: markers, filename: assets/KR1a0014_001.markers.yaml, hash: 'sha256:b4419a6cc3d093942ac7580e61979874e75b4223763705c03d441db670520d77'}
-  - {seq: 2, role: markers, filename: assets/KR1a0014_002.markers.yaml, hash: 'sha256:76991bd870605a94b721778f07c7e471c5670b8d27850cdfe5b1d4dd75c5f4d3'}
-  - {seq: 3, role: markers, filename: assets/KR1a0014_003.markers.yaml, hash: 'sha256:41674f5d6ebc8468a48e60142dde35b9ee9f01ea660a2dbad591f5512b7e7913'}
+  - {seq: 0, role: markers, filename: assets/KR1a0014_000.markers.yaml, hash: 'sha256:51684214516b5e25ce8699aa54be9bfd44b49b7001be82814373dcd813a445e5'}
+  - {seq: 1, role: markers, filename: assets/KR1a0014_001.markers.yaml, hash: 'sha256:f0d5de0a2a91f3785a9cf0a97cf3c58822d2a355c9671a9e200d95d90c352f72'}
+  - {seq: 2, role: markers, filename: assets/KR1a0014_002.markers.yaml, hash: 'sha256:c5b841da284a8a0b3eff6cf520c49b445738f998a499d46c7b92618ebbf5a2e0'}
+  - {seq: 3, role: markers, filename: assets/KR1a0014_003.markers.yaml, hash: 'sha256:2d233e070df0c89af4cf423e04e38531a061bcbb4f46588f74e638ec2a9da191'}
   - {seq: 4, role: markers, filename: assets/KR1a0014_004.markers.yaml, hash: 'sha256:b54de0deacbb01fc9df7fe101e0f65ccddb77aaf24d7b2f8ac99024de5163d33'}
 table_of_contents:
 - ref:
@@ -82,7 +82,7 @@ table_of_contents:
   label: 橫渠先生行狀
   type: section
   level: 1
-hash: sha256:dcba3810cd7be220c36c0ad8688f71bbb4d110ff6137ef9dfcb34d756ff74070
+hash: sha256:e9d9a6095e5da4ecfcedb9d632d844fcb4deacd99834326e713d8d7707a931e5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
